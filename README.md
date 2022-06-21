@@ -2,3 +2,5 @@
 
 Página - não responsiva - desenvolvida com HTML5 e CSS3 na IDE Visual Studio Code. <br>
 Para acessá-la, <a href="https://amandavsadev.github.io/landing-page-blue/" target="_blank"> Clique aqui</a>!</li>
+
+<img align="center" alt="Marketing Criativo" src="MC.png">

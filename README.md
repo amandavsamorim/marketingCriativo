@@ -2,7 +2,7 @@
 
 ## :page_facing_up: Sobre o Projeto
 - Este projeto trata-se de uma landing page desenvolvida no Visual Studio Code com a finalidade de pôr em prática meus conhecimentos em HTML5 e CSS3
-- Criado em 16/10/2022
+- Criado em 27/05/2022
 ---
 ## :framed_picture: Imagens do Projeto
 

@@ -32,4 +32,4 @@
    
   ## 📝 Licença
   
-   O projeto o possui a licença _MIT_, veja o arquivo [LICENSE](license.txt) para mais informações.
+   O projeto o possui a licença _MIT_, veja o arquivo [license](license.txt) para mais informações.
